@@ -1,5 +1,9 @@
 # Cerulean
 
+<div align="center">
+  <img src="https://github.com/R-D-BioTech-Alaska/Cerulean/blob/main/cerulean.webp" width="250">
+</div>
+
 ## Overview
 Cerulean is a sophisticated chatbot that learns from user interactions to improve its responses over time. Using JavaScript and HTML, this chatbot is designed to engage users in meaningful conversations and dynamically adapt based on the feedback it receives, similar to A.L.I.C.E.
 
